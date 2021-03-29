@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongodb": "^3.6.4"
+  },
+  "name": "expresscompleto",
+  "version": "1.0.0",
+  "main": "process.js",
+  "scripts": {
+    "test": "jest",
+    "start": "nodemon process.js"
+  },
+  "author": "JuanP",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "jest": "^26.6.3",
+    "nodemon": "^2.0.7"
+  }
+}
